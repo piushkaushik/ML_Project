@@ -6,6 +6,7 @@ This is a Machine Learning project
 2. [Heroku Account](https://dashboard.heroku.com/login)
 3. [VS code IDE](https://code.visualstudio.com/download)
 4. [GIT cli](https://git-scm.com/downloads)
+5. [git commands doc](https://git-scm.com/docs/gittutorial#_name)
 
 
 ### Creating conda environment
