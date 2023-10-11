@@ -10,7 +10,7 @@ def index():
     try:
         raise Exception("We are testing custom exception")
     except Exception as e:
-        raise HousingException(e, sys) from e
+        housing = HousingException(e, sys)
         logging.info(housing.error_message)
         logging.info("we are testing logging module")
     return "Starting ML project"
